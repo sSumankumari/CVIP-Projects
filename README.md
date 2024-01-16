@@ -3,19 +3,20 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 
 ## ***Phase 1: Unveiling Customer Insights & Stock Trends 📊***
 
-### **Analyzing Customer Behavior**
+### **Normal Task:- Analyzing Customer Behavior**
 **Skills Showcased:**
 
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn)
-- Pandas Proficiency
+- Proficient Exploratory Data Analysis (EDA)
+- Expertise in Data Visualization (Matplotlib, Seaborn)
+- Advanced Data Manipulation using Pandas
+
 **Tools & Techniques:**
 
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-### **Time Series Analysis on Historical Stock Prices**
+### **Golden Task:- Time Series Analysis on Historical Stock Prices**
 **Skills Showcased:**
 
 - Time Series Analysis Wizardry
@@ -30,11 +31,11 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 
 ## ***Phase 2: Decoding Climate Patterns & Crafting Spam Filters 🌐🛡️***
 
-### **Climate Data Analysis**
+### **Normal Task:- Climate Data Analysis**
 **Skills Showcased:**
 
 - Advanced Data Analysis Techniques
-- Statistical Prowess in Climate Insights
+- Statistical Analysis for Climate Insights
 - Mastering Data Visualization
 
 **Tools & Techniques:**
@@ -43,25 +44,25 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Pandas, NumPy
 - Statistical Analysis, Data Visualization
 
-### **Spam Filter Development**
+### **Golden Task:- Spam Filter Development**
 **Skills Showcased:**
 
 - Natural Language Processing (NLP) Mastery
-- Text Classification Ninja Skills
+- Proficiency in Machine Learning for Text Classification
 - Model Evaluation and Optimization
 
 **Tools & Techniques:**
 
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
-- NLTK for NLP, Scikit-learn for ML
+- Natural Language Toolkit(NLTK), Scikit-learn for ML
 
 
-## ***Elevating My Skills***
+## ***Elevating Skills***
 
-- **Languages:** Fluent in Python for data magic.
-- **Data Mastery:** Expertise in exploratory data analysis, statistical insights, and impactful visual storytelling.
-- **Machine Learning Mojo:** Successfully applying machine learning techniques to unravel time series trends and classify spam emails.
-- **NLP Wizardry:** Crafting intelligent spam filters using the power of Natural Language Processing.
+- **Programming Proficiency:** Fluent in Python for data analysis and machine learning.
+- **Data Analysis Mastery:** Expertise in exploratory data analysis, statistical insights, and impactful data visualization.
+- **Machine Learning Excellence:** Successful application of machine learning techniques for time series analysis and spam email classification.
+- **NLP Prowess:** Crafting intelligent spam filters using the power of Natural Language Processing.
 
 This journey has not only fortified my technical arsenal but has also fueled my passion for turning data into insights. Excited to continue this journey and eager to contribute my skills to future endeavors! 🌟
