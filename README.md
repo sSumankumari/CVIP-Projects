@@ -16,6 +16,9 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
+***Summary:***
+In this project, I delved into customer behavior analysis using transactional data. Leveraging exploratory data analysis techniques, I unveiled valuable insights into customer preferences and purchasing patterns.
+
 ### **Golden Task:- Time Series Analysis on Historical Stock Prices**
 **Skills Showcased:**
 
@@ -28,6 +31,9 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
 - Time Series Plotting, Moving Averages
+
+***Summary:***
+Embarking on time series analysis, I explored historical stock prices. Employing advanced techniques, I unraveled patterns and trends, enhancing my understanding of stock price movements over time.
 
 ## ***Phase 2: Decoding Climate Patterns & Crafting Spam Filters 🌐🛡️***
 
@@ -44,6 +50,9 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Pandas, NumPy
 - Statistical Analysis, Data Visualization
 
+***Summary:***
+Undertaking comprehensive climate data analysis, I explored historical patterns and trends. This project deepened my insights into weather conditions over time, showcasing advanced data analysis skills.
+
 ### **Golden Task:- Spam Filter Development**
 **Skills Showcased:**
 
@@ -56,6 +65,9 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
 - Natural Language Toolkit(NLTK), Scikit-learn for ML
+
+***Summary:***
+Developing a robust spam filter using NLP and machine learning, I created an intelligent system capable of accurately classifying emails. This task demonstrated my prowess in text classification and model optimization.
 
 
 ## ***Elevating Skills***
