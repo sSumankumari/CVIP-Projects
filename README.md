@@ -16,6 +16,8 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
+**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%201/Analyzing%20customer%20behavior.ipynb
+
 ***Summary:***
 In this project, I delved into customer behavior analysis using transactional data. Leveraging exploratory data analysis techniques, I unveiled valuable insights into customer preferences and purchasing patterns.
 
@@ -31,6 +33,8 @@ In this project, I delved into customer behavior analysis using transactional da
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
 - Time Series Plotting, Moving Averages
+
+**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%201/Time%20series%20analysis.ipynb
 
 ***Summary:***
 Embarking on time series analysis, I explored historical stock prices. Employing advanced techniques, I unraveled patterns and trends, enhancing my understanding of stock price movements over time.
@@ -50,6 +54,8 @@ Embarking on time series analysis, I explored historical stock prices. Employing
 - Pandas, NumPy
 - Statistical Analysis, Data Visualization
 
+**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%202/Climate%20data%20analysis.ipynb
+
 ***Summary:***
 Undertaking comprehensive climate data analysis, I explored historical patterns and trends. This project deepened my insights into weather conditions over time, showcasing advanced data analysis skills.
 
@@ -65,6 +71,8 @@ Undertaking comprehensive climate data analysis, I explored historical patterns 
 - Python (Jupyter Notebooks)
 - Pandas, NumPy
 - Natural Language Toolkit(NLTK), Scikit-learn for ML
+
+**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%202/Spam%20Email%20Filter.ipynb
 
 ***Summary:***
 Developing a robust spam filter using NLP and machine learning, I created an intelligent system capable of accurately classifying emails. This task demonstrated my prowess in text classification and model optimization.
