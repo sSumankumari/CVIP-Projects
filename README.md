@@ -16,7 +16,7 @@ Welcome to my GitHub repository, where I showcase the skills I've acquired durin
 - Pandas, NumPy
 - Matplotlib, Seaborn
 
-**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%201/Analyzing%20customer%20behavior.ipynb
+**Project Link:** http://tinyurl.com/phase1-cb-analysis
 
 ***Summary:***
 In this project, I delved into customer behavior analysis using transactional data. Leveraging exploratory data analysis techniques, I unveiled valuable insights into customer preferences and purchasing patterns.
@@ -34,7 +34,7 @@ In this project, I delved into customer behavior analysis using transactional da
 - Pandas, NumPy
 - Time Series Plotting, Moving Averages
 
-**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%201/Time%20series%20analysis.ipynb
+**Project Link:** http://tinyurl.com/phase1-TSA
 
 ***Summary:***
 Embarking on time series analysis, I explored historical stock prices. Employing advanced techniques, I unraveled patterns and trends, enhancing my understanding of stock price movements over time.
