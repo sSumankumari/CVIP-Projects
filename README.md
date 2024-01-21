@@ -54,7 +54,7 @@ Embarking on time series analysis, I explored historical stock prices. Employing
 - Pandas, NumPy
 - Statistical Analysis, Data Visualization
 
-**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%202/Climate%20data%20analysis.ipynb
+**Project Link:** http://tinyurl.com/phase2-climate
 
 ***Summary:***
 Undertaking comprehensive climate data analysis, I explored historical patterns and trends. This project deepened my insights into weather conditions over time, showcasing advanced data analysis skills.
@@ -72,7 +72,7 @@ Undertaking comprehensive climate data analysis, I explored historical patterns 
 - Pandas, NumPy
 - Natural Language Toolkit(NLTK), Scikit-learn for ML
 
-**Project Link:** https://github.com/sSumankumari/CVIP-Projects/blob/f3db205b4d4e219ebbd721f931f703c7062adeff/Phase%202/Spam%20Email%20Filter.ipynb
+**Project Link:** http://tinyurl.com/phase2-spam
 
 ***Summary:***
 Developing a robust spam filter using NLP and machine learning, I created an intelligent system capable of accurately classifying emails. This task demonstrated my prowess in text classification and model optimization.
